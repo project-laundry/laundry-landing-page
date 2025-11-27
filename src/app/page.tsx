@@ -105,7 +105,7 @@ export default function Home() {
               </div>
               <div className="bg-white border-2 border-soft-gray rounded-2xl p-8 hover:border-nordic-blue transition-colors">
                 <h4 className="text-2xl font-bold text-dark-gray mb-2">Oslo</h4>
-                <p className="text-medium-gray">Tilgjengelig nå</p>
+                <p className="text-medium-gray">Tilgjengelig snart</p>
               </div>
             </div>
           </div>
@@ -124,7 +124,7 @@ export default function Home() {
 
               <div className="bg-white rounded-2xl p-8 border border-soft-gray">
                 <h4 className="text-2xl font-bold text-dark-gray mb-2">Annenhver uke</h4>
-                <p className="text-4xl font-bold text-dark-gray mb-1">249 <span className="text-lg text-medium-gray font-normal">NOK/mnd</span></p>
+                <p className="text-4xl font-bold text-dark-gray mb-1">850 <span className="text-lg text-medium-gray font-normal">NOK/mnd</span></p>
                 <p className="text-medium-gray mb-8">Vaskes annenhver uke</p>
                 <a href="/auth/signup" className="block w-full bg-soft-gray text-dark-gray font-semibold py-3 rounded-lg hover:bg-gray-200 transition-colors text-center">
                   Velg plan
@@ -136,7 +136,7 @@ export default function Home() {
                   Mest populær
                 </div>
                 <h4 className="text-2xl font-bold text-dark-gray mb-2">Ukentlig</h4>
-                <p className="text-4xl font-bold text-dark-gray mb-1">399 <span className="text-lg text-medium-gray font-normal">NOK/mnd</span></p>
+                <p className="text-4xl font-bold text-dark-gray mb-1">1 600 <span className="text-lg text-medium-gray font-normal">NOK/mnd</span></p>
                 <p className="text-medium-gray mb-8">Vaskes hver uke</p>
                 <a href="/auth/signup" className="block w-full bg-nordic-blue text-white font-semibold py-3 rounded-lg hover:bg-blue-600 transition-colors text-center">
                   Velg plan
@@ -145,7 +145,7 @@ export default function Home() {
 
               <div className="bg-white rounded-2xl p-8 border border-soft-gray">
                 <h4 className="text-2xl font-bold text-dark-gray mb-2">Enkeltvask</h4>
-                <p className="text-4xl font-bold text-dark-gray mb-1">149 <span className="text-lg text-medium-gray font-normal">NOK</span></p>
+                <p className="text-4xl font-bold text-dark-gray mb-1">600 <span className="text-lg text-medium-gray font-normal">NOK</span></p>
                 <p className="text-medium-gray mb-8">Betal per vask</p>
                 <a href="/auth/signup" className="block w-full bg-soft-gray text-dark-gray font-semibold py-3 rounded-lg hover:bg-gray-200 transition-colors text-center">
                   Velg plan
